@@ -1,4 +1,4 @@
-# Nautilus-Python-scripts
+# Nautilus-Python-Scripts
 Random scripts I make for myself others may find useful
 
 # Installation
